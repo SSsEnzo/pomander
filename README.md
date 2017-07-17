@@ -15,7 +15,7 @@ npm install -g eslint
 ## Installation
 Within a git repository, run the following command:
 ```sh
-curl -s https://raw.githubusercontent.com/codestates/pomander/master/bin/install?token=AEzaQ9YtT8Ra9PxsezjqCRzttiBCkeudks5ZOSsTwA%3D%3D | bash
+curl -s https://raw.githubusercontent.com/codestates/pomander/master/bin/install | bash
 ```
 
 ## Usage
